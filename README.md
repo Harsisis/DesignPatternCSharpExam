@@ -1,7 +1,7 @@
 # DesignPatternCSharpExam
 
-Examen de design pattern en C#
-Implémentation des design patterns :
+Examen de design pattern en C#\
+ImplÃ©mentation des design patterns :
 - Chain of Responsability
 - Interpretor
 - Abstract Factory
